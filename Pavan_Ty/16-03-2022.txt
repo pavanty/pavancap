@@ -8,12 +8,12 @@ There are numerous predefined methods, such as length(), sqrt(), max(), and prin
 
 2)what are the underlying ds for linked list arraylist in java?
 Ans:-
-*)ArrayList is a resizable array implementation in java.
+ArrayList is a resizable array implementation in java.
  The backing data structure of ArrayList is an array of Object class.
  When creating an ArrayList you can provide initial capacity then the array is 
 declared with the given capacity. The default capacity value is 10.
 
-*)Linked List is a linear data structure. Unlike arrays, linked list elements are 
+Linked List is a linear data structure. Unlike arrays, linked list elements are 
 not stored at the contiguous location, the elements are linked using pointers as shown below.
  In Java, LinkedList can be represented as a class and a Node as a separate class
 
